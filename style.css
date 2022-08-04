@@ -1,0 +1,128 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    
+}
+.wrap{
+    padding: 0% 5% 0% 5%;
+    background-color: ;
+
+}
+.nav-bar {
+    width: 100%;
+    font-size: 20px;
+    display: block;
+    height: auto;
+}
+    
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 10px 0px 10px;
+    overflow: hidden; 
+    background-color: #72FFFF;
+    width: 100%;
+}
+
+.nav li {
+    float: right;
+}
+
+.nav li a {
+    display:block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #00D7FF;
+}
+.profile{
+    padding: 5% 0% 5% 0%;   
+    height: 250px;
+    width: 100%;
+    text-align: center;
+ 
+}
+.flag{
+    width: 30px; height: 20px;
+}
+#image{
+    width: 150px; height:150px; border-radius:100% ; justify-content: ;
+}
+.content{
+    background-color:#72FFFF;
+    width: 100%;
+    display: flex;
+}
+.right{
+    width: 50%;
+    height: auto;
+    padding: 5% 5% 5% 9%;
+}
+.left{
+    width: 50%;
+    height: auto;
+    padding: 5% 5% 5% 9%;
+    
+}
+.services{
+    background-color: ;
+    padding: 3% 2% 2% 3%;
+    border-radius: 15px;
+   
+}
+.service-content{
+    display: flex;
+    padding: 3% 3% 3% 3%;
+    justify-content: space-between;
+    text-align: center;
+}
+.col-1{
+    width: 20%;
+    padding: 3% 3% 3% 3%;
+    border-radius: 7px;
+    background-color:#FF8FB1 ;
+    }
+.col-2{
+    width: 20%;
+    padding: 3% 3% 3% 3%;
+    border-radius: 7px;
+    background-color:#FF8FB1;
+}
+.col-3{
+    width: 20%;
+    padding: 3% 3% 3% 3%;
+    border-radius: 7px;
+    background-color: #FF8FB1;
+}
+.footer{
+    width: 100%;
+    background-color: #72FFFF;
+    height: 200px;
+    padding: 5% 0% 5% 0%;
+    text-align: center
+}
+#social-media img {
+    width: 30px; height:30px
+
+}
+.this {
+    padding-left: 5%;   
+}
+.size{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.size-2{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+.middle{
+    font-weight: bold;
+}
